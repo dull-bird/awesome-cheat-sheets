@@ -9,9 +9,14 @@ A collection of cheat sheets of different knowledge and tools.
   - [Markdown](#markdown)
   - [Git](#git)
   - [GitHub](#github)
-  - [Pandas](#pandas)
-  - [NumPy](#numpy)
+  - [Python](#python)
+    - [General](#general)
+    - [Pandas](#pandas)
+    - [NumPy](#numpy)
+    - [Plotting](#plotting)
+    - [Other](#other)
   - [Linux](#linux)
+  - [MATLAB](#matlab)
   - [Touch Typing](#touch-typing)
 
 
@@ -19,7 +24,7 @@ A collection of cheat sheets of different knowledge and tools.
 
 - [A helpful syntax guide by GitHub](./markdown/markdown-cheatsheet-online.pdf)
 
-- [A Markdown format cheat sheet](./markdown/markdown-cheatsheet.md)
+- [A .md cheat sheet](./markdown/markdown-cheatsheet.md)
 
 ## Git
 
@@ -29,10 +34,40 @@ A collection of cheat sheets of different knowledge and tools.
 
 ## GitHub
 
-## Pandas
+## Python
 
-## NumPy
+### General
+- [Beginner’s Python Cheat Sheet - Overview](./python/general/beginners_python_cheat_sheet_pcc.pdf)
+- [Beginner’s Python Cheat Sheet - Lists](./python/general/beginners_python_cheat_sheet_list.pdf)
+- [Beginner’s Python Cheat Sheet - Dictionaries](./python/general/beginners_python_cheat_sheet_dict.pdf)
+- [Beginner’s Python Cheat Sheet - If Statements and While Loops](./python/general/beginners_python_cheat_sheet_pcc_if_while.pdf)
+- [Beginner’s Python Cheat Sheet - Functions](./python/general/beginners_python_cheat_sheet_functions.pdf)
+- [Beginner’s Python Cheat Sheet - Classes](./python/general/beginners_python_cheat_sheet_pcc_classes.pdf)
+- [Beginner’s Python Cheat Sheet - Files and Exceptions](./python/general/beginners_python_cheat_sheet_pcc_classes.pdf)
+- [Beginner’s Python Cheat Sheet - Testing Your Code](./python/general/beginners_python_cheat_sheet_testing_your_code.pdf)
+- [Using options and arguments in Python.](./python/command.md)
+
+### Pandas
+
+### NumPy
+
+
+
+<!-- ### Matplotlib -->
+### Plotting
+
+- [Beginner’s Python Cheat Sheet - Plotly](.python/plot/beginners_python_cheat_sheet_pcc_plotly.pdf)
+- [Beginner’s Python Cheat Sheet - Matplotlib](./python/plot/beginners_python_cheat_sheet_pcc_matplotlib.pdf)
+
+### Other
+
+- [Beginner’s Python Cheat Sheet - Pygame](./python/others/beginners_python_cheat_sheet_pcc_pygame.pdf)
+- [Beginner’s Python Cheat Sheet - Django](./python/others/beginners_python_cheat_sheet_pcc_pygame.pdf)
 
 ## Linux
+
+
+## MATLAB
+
 
 ## Touch Typing
