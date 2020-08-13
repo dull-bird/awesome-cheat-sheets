@@ -7,6 +7,7 @@ A collection of cheat sheets of different knowledge and tools.
 - [Awesome Cheat Sheets](#awesome-cheat-sheets)
   - [Contents](#contents)
   - [Markdown](#markdown)
+  - [HTML, CSS and JavaScript](#html-css-and-javascript)
   - [Git](#git)
   - [Python](#python)
     - [General](#general)
@@ -23,6 +24,14 @@ A collection of cheat sheets of different knowledge and tools.
 - [A helpful syntax guide by GitHub](./markdown/markdown-cheatsheet-online.pdf)
 
 - [A .md cheat sheet](./markdown/markdown-cheat-sheet.md)
+
+## HTML, CSS and JavaScript
+
+- [HTML](https://htmlcheatsheet.com/)
+
+- [CSS](https://htmlcheatsheet.com/css/)
+
+- [JavaScript](https://htmlcheatsheet.com/js)
 
 ## Git
 
