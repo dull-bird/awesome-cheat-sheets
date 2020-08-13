@@ -84,12 +84,19 @@ TODO
 Official cheat sheets for data science:
 
 - [MATLAB Live Editor](./matlab/live-editor-quick-start-guide.pdf)
+
 - [Importing and Exporting Data Using MATLAB](./matlab/importing-exporting-data-cheat-sheet.pdf)
+
 - [Preprocessing Time Series Data with MATLAB](matlab/preprocessing-time-series-data-tips-and-tricks.pdf)
+
 - [Machine Learning with MATLAB](./matlab/machine-learning-quick-start-guide.pdf)
+
 - [Deep Learning with MATLAB](matlab/deep-learning-with-matlab-quick-start-guide.pdf)
+
 - [Get Started with Text Analytics Toolbox](matlab/text-analytics-cheat-sheet.pdf)
+
 - [Problem-Based Optimization with Optimization Toolbox](matlab/problem-based-optimization-with-optimization-tb-cheat-sheet.pdf)
+
 - [Solver-Based Optimization in MATLAB](matlab/solver-based-optimization-in-matlab-cheat-sheet.pdf)
 
 <!-- ## Touch Typing -->
