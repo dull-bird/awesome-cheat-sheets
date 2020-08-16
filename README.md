@@ -45,6 +45,8 @@ A collection of cheat sheets of different knowledge and tools.
 
 - [Git Cheat Sheet by GitHub Education](git/git-cheat-sheet-education.pdf)
 
+- [Git Cheat Sheet by Red Hat](git/git_cheatsheet_r2v1.pdf)
+
 ## Python
 
 ### General
@@ -86,7 +88,10 @@ A collection of cheat sheets of different knowledge and tools.
 - [Beginner’s Python Cheat Sheet - Django](./python/others/beginners_python_cheat_sheet_pcc_pygame.pdf)
 
 ## Linux
-TODO
+
+- [Linux Command Cheat Sheet by Red Hat](linux/linux_cheatsheet_bw.pdf)
+
+- [Advanced Linux Command Cheat Sheet by Red Hat](linux/rheladvancedlinux_cheat_sheet_r3v1.pdf)
 
 ## MATLAB
 
