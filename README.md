@@ -1,6 +1,4 @@
-# Awesome Cheat Sheets
-
-<html>
+<!-- # Awesome Cheat Sheets -->
 <script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2/webcomponents-loader.min.js"></script>
 
 <!-- Load the element definition -->
@@ -10,4 +8,4 @@
 <zero-md
     src="https://raw.githubusercontent.com/dull-bird/awesome-cheat-sheets/master/README_contents.md">
 </zero-md>
-</html>
+
