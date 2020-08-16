@@ -7,5 +7,5 @@
 
 <!-- Simply set the `src` attribute to your MD file and win -->
 <zero-md
-    src="README_contents.md">
+    src="https://raw.githubusercontent.com/dull-bird/awesome-cheat-sheets/master/README_contents.md">
 </zero-md>
