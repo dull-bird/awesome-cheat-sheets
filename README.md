@@ -14,6 +14,7 @@
 - [Linux](#linux)
 - [MATLAB](#matlab)
 - [Keyboard Shortcuts](#keyboard-shortcuts)
+- [Emoji](#emoji)
 
 ## Introduction
 
@@ -94,3 +95,8 @@ Official cheat sheets for data science:
 
 - [VSCode](keyboard-shortcuts/vscode-keyboard-shortcuts-windows.pdf)
 - [Office](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-office-e765366f-24fc-4054-870d-39b214f223fd)
+
+
+## Emoji
+
+- [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
