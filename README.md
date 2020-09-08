@@ -15,6 +15,7 @@
 - [MATLAB](#matlab)
 - [Keyboard Shortcuts](#keyboard-shortcuts)
 - [Emoji](#emoji)
+- [Conda](#conda)
 
 ## Introduction
 
@@ -100,3 +101,7 @@ Official cheat sheets for data science:
 ## Emoji
 
 - [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+## Conda
+
+- [Conda Official Cheat Sheet](https://github.com/dull-bird/awesome-cheat-sheets/blob/master/python/conda/conda-cheatsheet.pdf)
