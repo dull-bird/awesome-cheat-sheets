@@ -1,4 +1,4 @@
-# test title awesome~
+# Awesome Cheat Sheets
 
 <!-- omit in toc -->
 ## Contents
